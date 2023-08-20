@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Agendo/static/css/main.6b057de3.css",
+    "main.js": "/Agendo/static/js/main.222ae190.js",
+    "static/js/787.8d9a5aaa.chunk.js": "/Agendo/static/js/787.8d9a5aaa.chunk.js",
+    "index.html": "/Agendo/index.html",
+    "main.6b057de3.css.map": "/Agendo/static/css/main.6b057de3.css.map",
+    "main.222ae190.js.map": "/Agendo/static/js/main.222ae190.js.map",
+    "787.8d9a5aaa.chunk.js.map": "/Agendo/static/js/787.8d9a5aaa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b057de3.css",
+    "static/js/main.222ae190.js"
+  ]
+}
