@@ -1,3 +1,17 @@
+# Agendo - Minimalist Todo List Web App
+
+Agendo is a simple and elegant Todo List web application built using React.js, JavaScript, HTML, and CSS. It allows users to efficiently manage their tasks and stay organized through a user-friendly interface and dynamic features.
+
+## Features
+
+- **Intuitive Interface**: Agendo provides a clean and intuitive interface that makes adding, editing, and checking off tasks a breeze.
+
+- **Real-time Updates**: Tasks are dynamically updated in real-time without the need for manual refreshing, ensuring you always have the latest information.
+
+- **Responsive Design**: Agendo is designed to work seamlessly on various devices, providing a consistent experience whether you're on a desktop, tablet, or smartphone.
+
+- **Dynamic creating, reading, updating, and deleting lists.**
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
