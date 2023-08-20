@@ -26,7 +26,7 @@ const Todo = () => {
       setItems(                                       
         items.map((curElem) => {                //if we click on add button after adding text in the text field 
           if (curElem.id === isEditItem) {                          //and it has some id then it will show alert
-            return { ...curElem, name: inputdata };     //...curElem = apple, name: inputdata = bringapple
+            return { ...curElem, name: inputdata };     //...curElem = apple, name: inputdata = bring apple
           }
           return curElem;
         })
